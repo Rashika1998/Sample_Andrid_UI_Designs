@@ -1,0 +1,2 @@
+rootProject.name='Simple_adroid_login_signup_ui'
+include ':app'
